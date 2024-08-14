@@ -19,7 +19,8 @@ k_size:
 
 # Query genomes for spacegraphcats
 query_genomes:
-  - GCA_000349525.1
+ - GCA_000143535.4
+ - GCA_000349525.1
 
 query_radius:
   - 1

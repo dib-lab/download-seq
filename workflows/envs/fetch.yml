@@ -9,3 +9,4 @@ dependencies:
   - ca-certificates
   - openssl
   - seqtk
+  - conda-forge::ncbi-datasets-cli

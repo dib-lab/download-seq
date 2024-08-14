@@ -28,7 +28,7 @@ outdir = config.get("output_dir")
 dbdir = config.get("databases_dir")
 
 DBLIST = [ x for x in os.listdir(dbdir) if x.startswith("fullpath.") ]
-print("Using these database lists: ", DBLIST)
+print("Using the databases listed: ", DBLIST)
 
 USER = os.environ.get('USER')
 

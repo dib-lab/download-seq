@@ -4,6 +4,8 @@
 
 metadata_file_path: metadata/SraRunTable.txt
 
+output_directory: samples_sigs
+
 # The kmer size within the database (`sourmash sig fileinfo`)
 k_size:
   - 21
